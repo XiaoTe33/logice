@@ -1,0 +1,6 @@
+[2023-02-26 01:39:00] [1;43m[WAR][0m .\src\lg3\test\log3.go:14               | main.[36mmain[0m                      | "warn"
+[2023-02-26 01:40:37] [1;43m[WAR][0m .\src\lg3\test\log3.go:15               | main.[36mmain[0m                      | "warn"
+[2023-02-26 01:41:34] [1;43m[WAR][0m .\src\lg3\test\log3.go:15               | main.[36mmain[0m                      | "warn"
+[2023-02-26 01:42:48] [1;43m[WAR][0m .\src\lg3\test\log3.go:15               | main.[36mmain[0m                      | "warn"
+[2023-02-26 01:42:48] [1;43m[WAR][0m .\src\lg3\test\log3.go:21               | main.[36mAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA[0m| "too long"
+[2023-02-26 01:44:36] [1;43m[WAR][0m .\src\lg3\test\log3.go:15               | main.[36mmain[0m                      | "warn"

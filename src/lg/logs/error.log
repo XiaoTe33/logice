@@ -238,3 +238,4 @@ FuncName:main.main04, file:test.go, line:13
 [2023-02-25 01:43:49] [1;41m[ERR][0m .\test\test01\test.go:10                | main.[36mmain[0m                      | "123"
 [2023-02-25 01:43:49] [1;41m[ERR][0m .\test\test01\test.go:15                | main.[36mMain[0m                      | "asd"
 [2023-02-25 01:43:49] [1;41m[ERR][0m .\test\test01\test.go:19                | main.[36mmain04[0m                    | "err"
+[2023-02-26 01:33:59] [1;41m[ERR][0m .\src\lg3\test\log3.go:8                | main.[36mmain[0m                      | "err"
